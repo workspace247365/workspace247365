@@ -2,8 +2,13 @@
 
 <h2>📄 Certifications</h2>
 
-- <b>AI Cybersecurity and Governance - Columbia+</b>
-  - https://badges.plus.columbia.edu/1c7592ca-b926-481b-bc14-bc51dea1619a#acc.jRwpv2XP
+- <b>AI Cybersecurity and Governance</b>
+  - [Columbia+](https://badges.plus.columbia.edu/1c7592ca-b926-481b-bc14-bc51dea1619a#acc.DxtfHjQT)
+
+- <b>Foundations of Cybersecurity</b>
+  - [Google](https://www.coursera.org/account/accomplishments/verify/FJHAQGU4VDBR)  
+
+
 
 
 
