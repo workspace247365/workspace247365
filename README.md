@@ -3,10 +3,14 @@
 <h2>📄 Certifications</h2>
 
 - <b>AI Cybersecurity and Governance</b>
-  - [Columbia+](https://badges.plus.columbia.edu/1c7592ca-b926-481b-bc14-bc51dea1619a#acc.DxtfHjQT)
+  - [Columbia Engineering Executive Education](https://badges.plus.columbia.edu/1c7592ca-b926-481b-bc14-bc51dea1619a#acc.DxtfHjQT)
 
 - <b>Foundations of Cybersecurity</b>
   - [Google](https://www.coursera.org/account/accomplishments/verify/FJHAQGU4VDBR)  
+
+- <b>Technical Support Fundamentals</b>
+  - [Google](https://www.coursera.org/account/accomplishments/verify/NMK5AQJLSCHO)  
+
 
 
 
