@@ -1,5 +1,9 @@
 <h1>Hi, I'm Joel! <br/><a href="https://www.linkedin.com/in/joeljsprofile/">Cybersecurity Professional</a></h1>
 
+> People cheer at the start of the race and at the finish line.
+> Nobody's there for the middle, the boring, exhausting, unglamorous middle.
+> But that's where the winning happens, on your own.
+
 <h2>📄 Certifications</h2>
 
 - <b>AI Cybersecurity and Governance</b>
